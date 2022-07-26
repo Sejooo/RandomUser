@@ -1,11 +1,11 @@
 <x-layout>
-    <div
-        class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-        <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-            
-<div>
-    
-</div>
+    <section class="p-10 m-10">
+        <div class="flex justify-center items-center relative">
+            <div class="w-120 h-120 mt-20 font-semibold text-xl bg-gray-100 p-12 rounded-xl">
+                <h1 class="text-gray-800 hover:text-gray-500 text-3xl">Welcomme</h1>
+                <p class="text-blue-300">Thank you for using website.</p>
+                <p>Press <a classs="" href="{{route('user-page.index')}}">START</a> to go to next page.</p>
+            </div>
         </div>
-    </div>
+    </section>
 </x-layout>
