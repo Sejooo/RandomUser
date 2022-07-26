@@ -6,7 +6,7 @@
                     <th class="border-2 border-gray-700 border-collapse">Name</th>
                     <th class="border-2 border-gray-700 border-collapse">Gender</th>
                     <th class="border-2 border-gray-700 border-collapse">Age</th>
-                    <th class="border-2 border-gray-700 border-collapse">Naturality</th>
+                    <th class="border-2 border-gray-700 border-collapse">Nationality</th>
                 </tr>
                 <tr>
                     <td></td>
